@@ -17,9 +17,9 @@ abt_btn.addEventListener("click", abtbtnFunc)
 function appearFunc(){
     //fuction for button 1
     parent.style.display = "block";
-    model.style.display = "block";
     model1.style.display = "None";
-    section.style.transition = "0.5s";
+    model.style.display = "block";
+    section.style.transition = "1s";
     section.style.filter = "blur(10px)"; 
 
 }
