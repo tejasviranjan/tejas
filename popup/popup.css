@@ -92,10 +92,10 @@ section{
 body{
     background-image: url("Tejas.png");
     height: 100vh;
-    background-size: cover;
     width: 100%;
     margin: 0;
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 
 }
 
