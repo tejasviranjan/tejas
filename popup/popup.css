@@ -95,6 +95,7 @@ body{
     background-size: cover;
     width: 100%;
     margin: 0;
+    background-repeat: no-repeat;
 
 }
 
