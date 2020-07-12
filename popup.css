@@ -5,6 +5,7 @@
     height: 100vh;
     width: 100%;
     display: none;
+    overflow: auto;
 
     
 }
@@ -26,7 +27,7 @@
     border-color: teal;
     border: thin;
     display: none;
-    overflow: visible;
+    overflow: auto;
 
 }
 
@@ -47,7 +48,7 @@
     border-color: teal;
     border: thin;
     display: none;
-    overflow: visible;
+    overflow: auto;
 
 
 }
